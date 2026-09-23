@@ -6,10 +6,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://catherineflower.github.io',
-  baseUrl: '/docs-my-project/',
+  baseUrl: '/System_Analysis_Course_Project_T-Academy/',
 
   organizationName: 'CatherineFlower',
-  projectName: 'docs-my-project',
+  projectName: 'System_Analysis_Course_Project_T-Academy',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -28,7 +28,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
           editUrl:
-            'https://github.com/CatherineFlower/docs-my-project/tree/main/my-docs/',
+            'https://github.com/CatherineFlower/System_Analysis_Course_Project_T-Academy/tree/main/my-docs/',
         },
         blog: false,
         theme: {
@@ -60,7 +60,7 @@ const config = {
           label: 'Документация',
         },
         {
-          href: 'https://github.com/CatherineFlower/docs-my-project',
+          href: 'https://github.com/CatherineFlower/System_Analysis_Course_Project_T-Academy',
           label: 'GitHub',
           position: 'right',
         },
@@ -92,7 +92,7 @@ const config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/CatherineFlower/docs-my-project',
+              href: 'https://github.com/CatherineFlower/System_Analysis_Course_Project_T-Academyt',
             },
           ],
         },
