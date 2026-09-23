@@ -186,7 +186,7 @@ Smart Study Planner объединяет учебные данные в един
 
 Документация доступна через GitHub Pages:
 
-https://catherineflower.github.io/docs-my-project/
+[https://catherineflower.github.io/docs-my-project/](https://catherineflower.github.io/System_Analysis_Course_Project_T-Academy/)
 
 ---
 
